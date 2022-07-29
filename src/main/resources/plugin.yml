@@ -1,0 +1,10 @@
+name: Lobby
+version: '${project.version}'
+main: me.night0721.lobby.Lobby
+api-version: 1.18
+authors: [ Night0721 ]
+description: Lobby plugin for Matrix
+website: cath.js.org
+commands:
+  test:
+    description: "Test command"
